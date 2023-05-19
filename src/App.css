@@ -1,34 +1,63 @@
-ul {
-  list-style-type: none;
-  margin: 0;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: grey;
+}
+
+* {
   padding: 0;
-  overflow: hidden;
-  background-color: #333;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.1rem 5rem;
+  background: linear-gradient(180deg, black 0%, black 100%);
+}
+
+.brand a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
 }
 
 li {
-  float: left;
-  border-right: 1px solid #bbb;
+  list-style-type: none;
+  margin-left: 3rem;
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+li>a {
   text-decoration: none;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
 }
 
 
-
-li:last-child {
-  border-right: none;
+li::after {
+  content: '';
+  width: 0rem;
+  height: 0.15rem;
+  background-color: #fff;
+  display: block;
+  border-radius: 0.2rem;
+  margin: 0.2rem auto 0 auto;
+  transition: all 0.3s ease-in-out;
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: palevioletred;
-  color: #333;
+li:hover::after {
+  width: 2rem;
 }
 
 
@@ -46,13 +75,13 @@ li a:hover {
 }
 
 .titulo {
-  background-color: mistyrose;
+  background-color: white;
   margin-left: 50px;
   height: 1px;
 }
 
 .texto {
-  background-color: mistyrose;
+  background-color: lightgrey;
   margin-top: 20px;
   height: 5cm;
   text-align: center;
@@ -64,13 +93,10 @@ li a:hover {
 .container {
   display: flex;
   padding: 2px 16px;
-  background-color: mistyrose;
+  background-color: #bbb;
   margin: 20px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-
-
-  border: black;
-  border-width: 5px;
+  height: 3cm;
 }
 
 
@@ -86,7 +112,7 @@ img {
 
 
 .imagen {
-  width: 6cm;
+  width: 3cm;
 
 }
 

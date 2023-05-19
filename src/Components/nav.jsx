@@ -2,14 +2,22 @@
 
 const nav = () => {
 	return (
-		<section className="navegador">
-			<ul>
-				<li><a href="/">Inicio</a></li>
 
-				<li><a href="/funeraria">Personas</a></li>
 
-			</ul>
-		</section>
+		<header>
+			<div className="brand"><a href="#">Funeraria</a></div>
+
+			<nav>
+				<ul>
+					<li><a href="/">Inicio</a></li>
+
+					<li><a href="/funeraria">Personas</a></li>
+
+				</ul>
+			</nav>
+		</header>
+
+
 	)
 }
 
