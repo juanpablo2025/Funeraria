@@ -1,5 +1,5 @@
 import Funeraria from "../assets/Funeraria.json"
-import imagen from "../assets/img_avatar.jpg"
+import imagen from "../assets/persona.jpg"
 
 const datos = Funeraria.registros_funerarios
 

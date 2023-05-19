@@ -1,6 +1,6 @@
 import Nav from "../Components/nav"
 import banner from "../assets/banner.jpg"
-import Card from "../Components/Card"
+
 const Home = () => {
 	return (
 

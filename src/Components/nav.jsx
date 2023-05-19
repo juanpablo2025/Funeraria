@@ -5,7 +5,7 @@ const nav = () => {
 
 
 		<header>
-			<div className="brand"><a href="#">Funeraria</a></div>
+			<div className="brand"><a href="/">Funeraria</a></div>
 
 			<nav>
 				<ul>
