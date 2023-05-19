@@ -1,0 +1,428 @@
+{
+	"registros_funerarios": [
+		{
+			"nombre": "Juan Pérez",
+			"edad": 72,
+			"fecha_fallecimiento": "2023-05-10",
+			"causa_deceso": "Enfermedad cardíaca",
+			"ciudad": "Ciudad de México",
+			"pais": "México"
+		},
+		{
+			"nombre": "María González",
+			"edad": 65,
+			"fecha_fallecimiento": "2023-05-11",
+			"causa_deceso": "Accidente automovilístico",
+			"ciudad": "Madrid",
+			"pais": "España"
+		},
+		{
+			"nombre": "John Smith",
+			"edad": 80,
+			"fecha_fallecimiento": "2023-05-12",
+			"causa_deceso": "Enfermedad terminal",
+			"ciudad": "Nueva York",
+			"pais": "Estados Unidos"
+		},
+		{
+			"nombre": "Luisa García",
+			"edad": 58,
+			"fecha_fallecimiento": "2023-05-13",
+			"causa_deceso": "Accidente cerebrovascular",
+			"ciudad": "Barcelona",
+			"pais": "España"
+		},
+		{
+			"nombre": "Robert Johnson",
+			"edad": 70,
+			"fecha_fallecimiento": "2023-05-14",
+			"causa_deceso": "Covid-19",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Ana Silva",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-05-15",
+			"causa_deceso": "Enfermedad renal",
+			"ciudad": "Sao Paulo",
+			"pais": "Brasil"
+		},
+		{
+			"nombre": "Michael Chen",
+			"edad": 68,
+			"fecha_fallecimiento": "2023-05-16",
+			"causa_deceso": "Accidente de tráfico",
+			"ciudad": "Shanghái",
+			"pais": "China"
+		},
+		{
+			"nombre": "Laura López",
+			"edad": 58,
+			"fecha_fallecimiento": "2023-05-17",
+			"causa_deceso": "Cáncer de pulmón",
+			"ciudad": "Buenos Aires",
+			"pais": "Argentina"
+		},
+		{
+			"nombre": "Gabriel Rodriguez",
+			"edad": 64,
+			"fecha_fallecimiento": "2023-05-18",
+			"causa_deceso": "Infarto de miocardio",
+			"ciudad": "Caracas",
+			"pais": "Venezuela"
+		},
+		{
+			"nombre": "Emily Wilson",
+			"edad": 82,
+			"fecha_fallecimiento": "2023-05-19",
+			"causa_deceso": "Enfermedad de Alzheimer",
+			"ciudad": "Toronto",
+			"pais": "Canadá"
+		},
+		{
+			"nombre": "Andrés López",
+			"edad": 61,
+			"fecha_fallecimiento": "2023-05-20",
+			"causa_deceso": "Complicaciones postoperatorias",
+			"ciudad": "Bogotá",
+			"pais": "Colombia"
+		},
+		{
+			"nombre": "Sophie Martin",
+			"edad": 74,
+			"fecha_fallecimiento": "2023-05-21",
+			"causa_deceso": "Enfermedad pulmonar obstructiva crónica",
+			"ciudad": "París",
+			"pais": "Francia"
+		},
+		{
+			"nombre": "Daniel Lee",
+			"edad": 69,
+			"fecha_fallecimiento": "2023-05-22",
+			"causa_deceso": "Accidente cerebrovascular",
+			"ciudad": "Seúl",
+			"pais": "Corea del Sur"
+		},
+		{
+			"nombre": "Marta Hernández",
+			"edad": 63,
+			"fecha_fallecimiento": "2023-05-23",
+			"causa_deceso": "Cáncer de mama",
+			"ciudad": "Madrid",
+			"pais": "España"
+		},
+		{
+			"nombre": "Mohammed Khan",
+			"edad": 77,
+			"fecha_fallecimiento": "2023-05-24",
+			"causa_deceso": "Insuficiencia cardíaca",
+			"ciudad": "Daca",
+			"pais": "Bangladés"
+		},
+		{
+			"nombre": "Olivia Andersen",
+			"edad": 70,
+			"fecha_fallecimiento": "2023-05-25",
+			"causa_deceso": "Covid-19",
+			"ciudad": "Copenhague",
+			"pais": "Dinamarca"
+		},
+		{
+			"nombre": "Sebastian Rossi",
+			"edad": 67,
+			"fecha_fallecimiento": "2023-05-26",
+			"causa_deceso": "Enfermedad renal",
+			"ciudad": "Roma",
+			"pais": "Italia"
+		},
+		{
+			"nombre": "Hiroshi Tanaka",
+			"edad": 76,
+			"fecha_fallecimiento": "2023-05-27",
+			"causa_deceso": "Accidente cerebrovascular",
+			"ciudad": "Tokio",
+			"pais": "Japón"
+		},
+		{
+			"nombre": "Isabella Costa",
+			"edad": 69,
+			"fecha_fallecimiento": "2023-05-28",
+			"causa_deceso": "Cáncer de pulmón",
+			"ciudad": "Río de Janeiro",
+			"pais": "Brasil"
+		},
+		{
+			"nombre": "Adam Smith",
+			"edad": 73,
+			"fecha_fallecimiento": "2023-05-29",
+			"causa_deceso": "Enfermedad cardíaca",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Sofia Fernandez",
+			"edad": 62,
+			"fecha_fallecimiento": "2023-05-30",
+			"causa_deceso": "Covid-19",
+			"ciudad": "Buenos Aires",
+			"pais": "Argentina"
+		},
+		{
+			"nombre": "Mohamed Ahmed",
+			"edad": 68,
+			"fecha_fallecimiento": "2023-05-31",
+			"causa_deceso": "Insuficiencia renal",
+			"ciudad": "El Cairo",
+			"pais": "Egipto"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-01",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Rafael Garcia",
+			"edad": 64,
+			"fecha_fallecimiento": "2023-06-02",
+			"causa_deceso": "Accidente automovilístico",
+			"ciudad": "Madrid",
+			"pais": "España"
+		},
+		{
+			"nombre": "Elena Petrova",
+			"edad": 71,
+			"fecha_fallecimiento": "2023-06-03",
+			"causa_deceso": "Enfermedad pulmonar",
+			"ciudad": "Moscú",
+			"pais": "Rusia"
+		},
+		{
+			"nombre": "Lucas Santos",
+			"edad": 68,
+			"fecha_fallecimiento": "2023-06-04",
+			"causa_deceso": "Covid-19",
+			"ciudad": "São Paulo",
+			"pais": "Brasil"
+		},
+		{
+			"nombre": "Mia Johnson",
+			"edad": 66,
+			"fecha_fallecimiento": "2023-06-05",
+			"causa_deceso": "Accidente cerebrovascular",
+			"ciudad": "Nueva York",
+			"pais": "Estados Unidos"
+		},
+		{
+			"nombre": "David Müller",
+			"edad": 73,
+			"fecha_fallecimiento": "2023-06-06",
+			"causa_deceso": "Enfermedad cardíaca",
+			"ciudad": "Berlín",
+			"pais": "Alemania"
+		},
+		{
+			"nombre": "Chen Wei",
+			"edad": 69,
+			"fecha_fallecimiento": "2023-06-07",
+			"causa_deceso": "Covid-19",
+			"ciudad": "Shanghái",
+			"pais": "China"
+		},
+		{
+			"nombre": "Sophia Sanchez",
+			"edad": 64,
+			"fecha_fallecimiento": "2023-06-08",
+			"causa_deceso": "Enfermedad renal",
+			"ciudad": "Barcelona",
+			"pais": "España"
+		},
+		{
+			"nombre": "Muhammad Ali",
+			"edad": 77,
+			"fecha_fallecimiento": "2023-06-09",
+			"causa_deceso": "Enfermedad cardíaca",
+			"ciudad": "Lahore",
+			"pais": "Pakistán"
+		},
+		{
+			"nombre": "Julia Rossi",
+			"edad": 69,
+			"fecha_fallecimiento": "2023-06-10",
+			"causa_deceso": "Cáncer de mama",
+			"ciudad": "Roma",
+			"pais": "Italia"
+		},
+		{
+			"nombre": "Samir Khan",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-11",
+			"causa_deceso": "Accidente automovilístico",
+			"ciudad": "Daca",
+			"pais": "Bangladés"
+		},
+		{
+			"nombre": "Emily Thomas",
+			"edad": 72,
+			"fecha_fallecimiento": "2023-06-12",
+			"causa_deceso": "Enfermedad pulmonar",
+			"ciudad": "París",
+			"pais": "Francia"
+		},
+		{
+			"nombre": "Seo-Jin Kim",
+			"edad": 66,
+			"fecha_fallecimiento": "2023-06-13",
+			"causa_deceso": "Accidente cerebrovascular",
+			"ciudad": "Seúl",
+			"pais": "Corea del Sur"
+		},
+		{
+			"nombre": "Mariana López",
+			"edad": 61,
+			"fecha_fallecimiento": "2023-06-14",
+			"causa_deceso": "Covid-19",
+			"ciudad": "Buenos Aires",
+			"pais": "Argentina"
+		},
+		{
+			"nombre": "Akira Suzuki",
+			"edad": 74,
+			"fecha_fallecimiento": "2023-06-15",
+			"causa_deceso": "Enfermedad renal",
+			"ciudad": "Tokio",
+			"pais": "Japón"
+		},
+		{
+			"nombre": "Camila Costa",
+			"edad": 67,
+			"fecha_fallecimiento": "2023-06-16",
+			"causa_deceso": "Cáncer de pulmón",
+			"ciudad": "Río de Janeiro",
+			"pais": "Brasil"
+		},
+		{
+			"nombre": "Thomas Wilson",
+			"edad": 70,
+			"fecha_fallecimiento": "2023-06-17",
+			"causa_deceso": "Enfermedad cardíaca",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Isabella Ramirez",
+			"edad": 63,
+			"fecha_fallecimiento": "2023-06-18",
+			"causa_deceso": "Covid-19",
+			"ciudad": "Bogotá",
+			"pais": "Colombia"
+		},
+		{
+			"nombre": "Mohammed Ahmed",
+			"edad": 68,
+			"fecha_fallecimiento": "2023-06-19",
+			"causa_deceso": "Insuficiencia renal",
+			"ciudad": "El Cairo",
+			"pais": "Egipto"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Emma Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		}
+	]
+}
