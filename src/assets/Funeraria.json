@@ -337,7 +337,7 @@
 			"pais": "Reino Unido"
 		},
 		{
-			"nombre": "Emma Wilson",
+			"nombre": "Levi Davis",
 			"edad": 75,
 			"fecha_fallecimiento": "2023-06-20",
 			"causa_deceso": "Enfermedad de Parkinson",
@@ -353,7 +353,39 @@
 			"pais": "Reino Unido"
 		},
 		{
-			"nombre": "Emma Wilson",
+			"nombre": "Hannah Wilson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Matthew Garcia",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Lily Anderson",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Gabriel Martinez",
+			"edad": 75,
+			"fecha_fallecimiento": "2023-06-20",
+			"causa_deceso": "Enfermedad de Parkinson",
+			"ciudad": "Londres",
+			"pais": "Reino Unido"
+		},
+		{
+			"nombre": "Arianna Thompson",
 			"edad": 75,
 			"fecha_fallecimiento": "2023-06-20",
 			"causa_deceso": "Enfermedad de Parkinson",
@@ -369,7 +401,7 @@
 			"pais": "Reino Unido"
 		},
 		{
-			"nombre": "Emma Wilson",
+			"nombre": "Jane Smith",
 			"edad": 75,
 			"fecha_fallecimiento": "2023-06-20",
 			"causa_deceso": "Enfermedad de Parkinson",
@@ -377,7 +409,7 @@
 			"pais": "Reino Unido"
 		},
 		{
-			"nombre": "Emma Wilson",
+			"nombre": "Alex Johnson",
 			"edad": 75,
 			"fecha_fallecimiento": "2023-06-20",
 			"causa_deceso": "Enfermedad de Parkinson",
@@ -385,39 +417,7 @@
 			"pais": "Reino Unido"
 		},
 		{
-			"nombre": "Emma Wilson",
-			"edad": 75,
-			"fecha_fallecimiento": "2023-06-20",
-			"causa_deceso": "Enfermedad de Parkinson",
-			"ciudad": "Londres",
-			"pais": "Reino Unido"
-		},
-		{
-			"nombre": "Emma Wilson",
-			"edad": 75,
-			"fecha_fallecimiento": "2023-06-20",
-			"causa_deceso": "Enfermedad de Parkinson",
-			"ciudad": "Londres",
-			"pais": "Reino Unido"
-		},
-		{
-			"nombre": "Emma Wilson",
-			"edad": 75,
-			"fecha_fallecimiento": "2023-06-20",
-			"causa_deceso": "Enfermedad de Parkinson",
-			"ciudad": "Londres",
-			"pais": "Reino Unido"
-		},
-		{
-			"nombre": "Emma Wilson",
-			"edad": 75,
-			"fecha_fallecimiento": "2023-06-20",
-			"causa_deceso": "Enfermedad de Parkinson",
-			"ciudad": "Londres",
-			"pais": "Reino Unido"
-		},
-		{
-			"nombre": "Emma Wilson",
+			"nombre": "Emma Davis",
 			"edad": 75,
 			"fecha_fallecimiento": "2023-06-20",
 			"causa_deceso": "Enfermedad de Parkinson",

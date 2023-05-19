@@ -105,7 +105,6 @@ li:hover::after {
 img {
   width: 100%;
 
-
 }
 
 
@@ -117,12 +116,15 @@ img {
 }
 
 .dato2 {
-  width: 6cm;
+  width: 4cm;
   margin-left: 10px;
 
 
 }
 
+h1 {
+  text-align: center;
+}
 
 
 .datos {

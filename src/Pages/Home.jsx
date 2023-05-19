@@ -11,7 +11,7 @@ const Home = () => {
 			</section>
 
 			<section className="texto">
-				<center><h1>Graveyard keeper</h1></center>
+				<h1>Graveyard keeper</h1>
 				<section className="texto" id="text1">
 
 
